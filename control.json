@@ -8,6 +8,14 @@
       "name": "Miguel Lopez",
       "active": "ON",
       "message": "Licencia activa."
+      {
+  "LIRA-F5EC11E9E070": {
+    "license_id": "LIRA-F5EC11E9E070",
+    "name": "Testeo",
+    "active": "ON",
+    "message": "Licencia activa para Testeo."
+  }
+}
     }
   }
 }
