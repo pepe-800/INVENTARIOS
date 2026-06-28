@@ -1,1 +1,13 @@
-Inventarios Cliente: Miguel Lopez: ON
+{
+  "active": true,
+  "version": "0.6",
+  "message": "Control general activo.",
+  "clients": {
+    "LIRA-ID-GENERADO": {
+      "license_id": "LIRA-ID-GENERADO",
+      "name": "Miguel Lopez",
+      "active": "ON",
+      "message": "Licencia activa."
+    }
+  }
+}
