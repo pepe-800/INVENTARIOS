@@ -1,23 +1,4 @@
 {
-  "active": true,
-  "version": "0.6",
-  "message": "Control general activo.",
-  "clients": {
-    "LIRA-ID-GENERADO": {
-      "license_id": "LIRA-ID-GENERADO",
-      "name": "Miguel Lopez",
-      "active": "ON",
-      "message": "Licencia activa."
-    },
-    "LIRA-F5EC11E9E070": {
-      "license_id": "LIRA-F5EC11E9E070",
-      "name": "Testeo",
-      "active": "ON",
-      "message": "Licencia activa para Testeo."
-    }
-  }
-}
-{
   "LIRA-3ECFB1FFB6A3": {
     "license_id": "LIRA-3ECFB1FFB6A3",
     "name": "Miguel Lopez",
