@@ -6,3 +6,12 @@
     "message": "Licencia activa para Miguel Lopez."
   }
 }
+{
+  "LIRA-23E82045466D": {
+    "_comment": "Inventarios Cliente: Jose Lira: ON",
+    "license_id": "LIRA-23E82045466D",
+    "name": "Jose Lira",
+    "active": "ON",
+    "message": "Licencia activa para Jose Lira."
+  }
+}
